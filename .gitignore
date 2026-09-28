@@ -1,0 +1,11 @@
+dataset/
+output/
+work/
+utils/
+.venv/
+__pycache__/
+*.pkl
+*.zip
+*.tsv
+*.gz
+code/business_entity_resolution/src/make_submission_zip.py
